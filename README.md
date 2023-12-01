@@ -21,7 +21,7 @@ Some of my applications:\
 	* [Hangman Kotlin ](https://github.com/Michal0002/hangmanGame-kotlin) \
 	* [Weather APP ](https://github.com/Michal0002/WeatherApp) \
 	* [Solar System](https://www.manticore.uni.lodz.pl/~mkasperk/) \
- 	* [Tic Tac Toe](https://github.com/Michal0002/TicTacToe)
+ 	* [Tic Tac Toe](https://github.com/Michal0002/TicTacToe) \
 	* [Car rental system](https://github.com/Michal0002/SQL-car-rental-system) \
 	* [Weather app](https://github.com/Michal0002/WeatherApp) \
 	* [Coffee shop](https://github.com/Michal0002/Csharp-coffee-shop) \
