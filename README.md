@@ -1,7 +1,7 @@
 # Hi there 👋 
   My name is Michał and I'm from Poland. I have a passion for exploring and learning new things, especially in the realm of programming.
   
- 🌱 I'm currently honing my skills in various programming languages and technologies, striving to expand my knowledge base.
+ 🌱 I'm currently grinding my skills in various programming languages and technologies, striving to expand my knowledge base.
 
  ### 🔭 Check out some of my projects:
  * [OLX Web Scrapper](https://github.com/Michal0002/olx_web-scrapper) - A web scraping tool to extract data from OLX platform.
