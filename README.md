@@ -5,7 +5,7 @@
 
  ### 🔭 Check out some of my projects: 
    - [OLX Web Scrapper](https://github.com/Michal0002/olx_web-scrapper) - A web scraping tool to extract data from OLX platform.
-   - [Pong Game](https://github.com/Michal0002/Pong-Game) - A classic Pong game implemented in Python, showcasing my ongoing learning journey in the language.
+   - [Pong Game](https://github.com/Michal0002/Pong-Game) - A classic pong game implemented in Python, showcasing my ongoing learning journey in the language.
    - [Parking Management System](https://github.com/Michal0002/ParkingManagementSystem) - An application for managing parking spaces for a medium size company.
 
 
